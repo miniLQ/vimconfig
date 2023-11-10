@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/data/code/zhc/test/test/kernel/tools'
+let g:netrw_dirhist_2='/data/code/zhc/M7_T2.1/native/vendor/qcom/non-hlos-sm6225'
+let g:netrw_dirhist_3='/data/code/zhc/M7_T2.1/native/vendor/qcom'
+let g:netrw_dirhist_4='/data/code/zhc/C3S2/dev/vendor/vendor/mediatek/proprietary/fingerprints/fpc/device'
